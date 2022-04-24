@@ -66,34 +66,6 @@
 <VehicleSpawn>			8365.18,	292.017,	5987.68
 <VehicleSpawnOri>		-90,		0,			0
 
-// neaf:
-
-<TraderMarker> 			0
-<TraderMarkerPosition>	12453.966797,    140.902863,    12550.187500 
-<TraderMarkerSafezone>	80
-
-<TraderMarker> 			1
-<TraderMarkerPosition>	12457.333008,    140.908539,    12549.140625
-<TraderMarkerSafezone>	80
-
-<TraderMarker> 			2
-<TraderMarkerPosition>	12465.429688,    140.918793,    12548.063477
-<TraderMarkerSafezone>	80
-
-<TraderMarker> 			3
-<TraderMarkerPosition>	12468.560547,    140.908752,    12546.916016
-<TraderMarkerSafezone>	80
-
-<TraderMarker> 			4
-<TraderMarkerPosition>	12469.595703,	140.912140,	12541.253906
-<TraderMarkerSafezone>	30
-
-<TraderMarker> 			5
-<TraderMarkerPosition>	12448.009766,	140.917618,	12543.809570
-<TraderMarkerSafezone>	80
-<VehicleSpawn>			12448.990234,	140.507553,	12530.939453
-<VehicleSpawnOri>		0,		0,			0
-
 
 
 // ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
